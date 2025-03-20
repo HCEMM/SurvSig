@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135mm"
+   height="33mm"
+   viewBox="0 0 135 33"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="QM_img.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.7198092"
+     inkscape:cx="397.32751"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath196">
+      <path
+         d="m 911.543,553.762 h 65.141 v 67.855 h -65.141 z"
+         id="path194" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2"
+       transform="matrix(0.43101154,0,0,0.43101154,-289.06421,-236.79988)">
+      <g
+         id="g190">
+        <g
+           id="g192"
+           clip-path="url(#clipPath196)">
+          <g
+             id="g198"
+             transform="matrix(65.139983,0,0,-67.854152,911.54239,621.61574)">
+            <image
+               width="1"
+               height="1"
+               preserveAspectRatio="none"
+               transform="matrix(1,0,0,-1,0,1)"
+               xlink:href="data:image/png;base64,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"
+               id="image200" />
+          </g>
+        </g>
+      </g>
+      <text
+         style="font-variant:normal;font-weight:bold;font-size:18.0944px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text208"
+         x="676.6535"
+         y="582.84698"><tspan
+           x="676.6535"
+           y="582.84698"
+           sodipodi:role="line"
+           id="tspan204">For further information find</tspan><tspan
+           x="676.6535"
+           y="605.75427"
+           sodipodi:role="line"
+           id="tspan206">&quot;?&quot; icon on the website</tspan></text>
+      <path
+         d="m 672.074,551.23 h 310.398 v 72.914 H 672.074 Z"
+         style="fill:none;stroke:#ff0000;stroke-width:2.16122;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path212" />
+    </g>
+  </g>
+</svg>

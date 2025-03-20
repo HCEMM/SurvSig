@@ -96,4 +96,4 @@ If you use **SurvSig** in your research, please cite:
 ---
 
 ## 📝 **License**  
-SurvSig is developed at **HCEMM** and is available under the **MIT License** (or specify if different).  
+SurvSig is developed at **HCEMM** and is available under the **GLP v3**.  

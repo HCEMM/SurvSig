@@ -7,7 +7,7 @@
 
 📞 **Access the application here:** [**www.survsig.hcemm.eu**](https://survsig.hcemm.eu/)  
 💡 **No installation required** – just open the website and start analyzing!  
-🔬 **About our group:** [**www.hcemm.eu**](https://www.hcemm.eu/teams/genomic-instability-and-cancer/cancer-genomics-and-epigenetics-core-group/)
+🔬 **About our research group:** [**www.hcemm.eu**](https://www.hcemm.eu/teams/genomic-instability-and-cancer/cancer-genomics-and-epigenetics-core-group/)
 
 ---
 

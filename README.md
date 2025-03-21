@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1ac818d1-0cbe-49d3-ad4f-764d3add6c5b" width="300">
+  <img src="https://github.com/user-attachments/assets/1ac818d1-0cbe-49d3-ad4f-764d3add6c5b" width="500">
 </p>
 
 # **SurvSig**  
@@ -7,6 +7,7 @@
 
 📞 **Access the application here:** [**www.survsig.hcemm.eu**](https://survsig.hcemm.eu/)  
 💡 **No installation required** – just open the website and start analyzing!  
+🔬 **About our group:** [**www.hcemm.eu**](https://www.hcemm.eu/teams/genomic-instability-and-cancer/cancer-genomics-and-epigenetics-core-group/)
 
 ---
 
